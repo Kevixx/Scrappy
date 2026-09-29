@@ -1,5 +1,5 @@
 # Scrappy
-This is a simple demo application for scrapping data from Telegram channels and storing it in a database. It uses the Ollama framework for model serving and can be run in a Conda environment.
+This is a simple demo application for scrapping data from Telegram channels and storing it in a files. It uses the Ollama framework for model serving and can be run in a Conda environment.
 
 ## Example of .env file
 

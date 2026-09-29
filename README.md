@@ -3,7 +3,7 @@
 ## Conda Environment
 
 ```bash
-conda activate traitor-env
+conda activate [your_env_name]
 ```
 
 ## Use Model GPU
